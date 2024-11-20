@@ -87,12 +87,9 @@ The AI competes against human players via a responsive graphical interface built
 ---
 
 ### **Contributors**
-- Chirayu Agrawal  
-- Aadit Jaisani  
-- Ansh Srivastava  
+- Chirayu Agrawal   
 - Diva Pandey  
-- Kunal Passan  
-- Jayant Kumar  
+- Kunal Passan   
 
 ---
 
